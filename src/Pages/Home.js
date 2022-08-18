@@ -17,16 +17,16 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Sanajit Jana</b>
-                          <b className="is-hidden">Designer</b>
-                          <b className="is-visible">Developer</b>
+                          <b className="is-hidden">Paramjit Singh</b>
+                          <b className="is-hidden">Backend developer</b>
+                          <b className="is-visible">Full stack Developer</b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
                         <ul className="about-social">
                           <li className="wow fadeIn" data-wow-delay=".4s">
                             <a
-                              href="https://www.linkedin.com/in/sanajitjana01"
+                              href="https://www.linkedin.com/in/paramsohi"
                               target="newtab"
                             >
                               <i
@@ -37,7 +37,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
-                              href="https://github.com/sanajitjana"
+                              href="https://github.com/paramsohi"
                               target="newtab"
                             >
                               <i
@@ -48,7 +48,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".6s">
                             <a
-                              href="https://www.instagram.com/sanajitjana01/"
+                              href="https://www.instagram.com/param_sohi/"
                               target="newtab"
                             >
                               <i
@@ -59,7 +59,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".8s">
                             <a
-                              href="https://twitter.com/sanajitjana01"
+                              href="https://twitter.com/paramsohi13"
                               target="newtab"
                             >
                               <i
@@ -70,7 +70,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay="1s">
                             <a
-                              href="https://dev.to/sanajitjana"
+                              href="https://dev.to/paramsohi"
                               target="newtab"
                             >
                               <i className="fa fa-book" aria-hidden="true"></i>
@@ -101,15 +101,16 @@ const Home = () => {
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        At present time I'm working on a multi-role, as a Web
-                        Developer I design and create various websites. And as
-                        UI/UX Designer I create many designs for Web
-                        Applications and Mobile applications. I create the
-                        beauty of the site. I'm responsible for the site's
-                        technical aspects, such as its performance and capacity,
-                        which are measures of a website's speed and how much
-                        traffic the site can handle. In addition, I also create
-                        content for the site.
+                      Hi there, I'm Param 👋
+                      Here are some ideas to get you started:
+
+                      🔭 I’m currently working on Laravel Angular and React js
+                      🌱 I’m currently learning my React skills
+                      👯 I’m looking to collaborate on Front End Projects
+                      🤔 I’m looking for help with with Firebase
+                      💬 Ask me about PHP, MYSQL, LARAVEL, JS etc.
+                      😄 Pronouns: He/His
+                      ⚡ Fun fact: I spend almost 10-12 hours on computer.
                       </p>
                     </div>
                   </div>
@@ -172,7 +173,7 @@ const Home = () => {
                     <div className="about-image">
                       <img
                         src="assets/img/about-image.jpg"
-                        alt="sanajit-jana"
+                        alt="paramsohi"
                         className="about-img wow fadeIn"
                       />
                     </div>
@@ -180,12 +181,12 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Sanajit</h3>
+                        <h3>Hello! This is Paramjit</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
                       <p className="wow fadeIn">
-                        I am a web developer from Kolkata, India. I enjoy
+                        I am a web developer from India. I enjoy
                         building everything from small business sites to rich
                         interactive web apps. if you are a business seeking a
                         web presence or an employer looking to hire, you can get
@@ -209,7 +210,7 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="assets/cv/param_resume.pdf"
                         target="_blank"
                       >
                         See Resume
@@ -374,7 +375,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>School</h3>
-                        <h2>2010-2017</h2>
+                        <h2>2009</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
@@ -393,7 +394,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Graduation</h3>
-                        <h2>2017-2020</h2>
+                        <h2>2013</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
@@ -403,10 +404,9 @@ const Home = () => {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            CCLMS (Contai College of Learning and Management
-                            Science)
+                            KU Kurukshetra
                           </a>
-                          , Contai, West Bengal, India.
+                          KUK , India.
                         </p>
                       </div>
                     </div>
@@ -880,7 +880,7 @@ const Home = () => {
                                 <div className="active item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit was a real pleasure to work with
+                                      “Param was a real pleasure to work with
                                       and we look forward to working with him
                                       again. He’s definitely the kind of
                                       developer you can trust with a project
@@ -893,7 +893,7 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit's a clear communicator with the
+                                      Param's a clear communicator with the
                                       tenacity and confidence to really dig in
                                       to tricky design scenarios and the
                                       collaborative friction that's needed to
@@ -906,7 +906,7 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit has done a fantastic job overall.
+                                      Param has done a fantastic job overall.
                                       Not only the site is to design, but the
                                       code is also very clean and slick. Love
                                       the way he achieved the translations
@@ -949,7 +949,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-              <div className="blog-details wow fadeIn text-left">
+              {/* <div className="blog-details wow fadeIn text-left">
                 <div className="container">
                   <div className="row">
                     <div className="col-md-4 col-sm-6">
@@ -1113,7 +1113,7 @@ const Home = () => {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
@@ -1263,7 +1263,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Address</h3>
-                        <p>Kolkata, West Bengal, India</p>
+                        <p>Punjab, India</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
@@ -1274,14 +1274,14 @@ const Home = () => {
                         ></i>
                         <h3>Email</h3>
                         <a
-                          href="mailto:contact.sanajitjana@gmail.com"
+                          href="mailto:contactparam13@gmail.com"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          contact.sanajitjana@gmail.com
+                          contactparam13@gmail.com
                         </a>
                       </div>
                     </div>
@@ -1293,14 +1293,14 @@ const Home = () => {
                         ></i>
                         <h3>Phone</h3>
                         <a
-                          href="tel:8372876775"
+                          href="tel:8447518000"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          +91 8372876775
+                          +91 8447518000
                         </a>
                       </div>
                     </div>
@@ -1311,7 +1311,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Portfolio</h3>
-                        <p>https://sanajitjana.github.io/</p>
+                        <p>https://paramsohi.github.io/</p>
                       </div>
                     </div>
                   </div>
