@@ -955,7 +955,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                          href="https://dev.to/paramsohi/what-is-hooks-in-react-js-41l2"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -967,7 +967,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/paramsohi/what-is-hooks-in-react-js-41l2"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -990,7 +990,7 @@ const Home = () => {
                             and hooks is ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/paramsohi/what-is-hooks-in-react-js-41l2"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1003,7 +1003,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                          href="https://dev.to/paramsohi/the-importance-of-ui-ux-software-engineering-1n0n"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1015,7 +1015,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/paramsohi/the-importance-of-ui-ux-software-engineering-1n0n"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -1038,7 +1038,7 @@ const Home = () => {
                             keyboard and the appearance ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/paramsohi/the-importance-of-ui-ux-software-engineering-1n0n"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1051,7 +1051,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                          href="https://dev.to/paramsohi/form-example-in-laravel-8-45oc"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1063,7 +1063,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/paramsohi/form-example-in-laravel-8-45oc"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -1085,7 +1085,7 @@ const Home = () => {
                             create contact-list ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/paramsohi/form-example-in-laravel-8-45oc"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1097,7 +1097,7 @@ const Home = () => {
                     </div>
                     <div className="row" style={{ textAlign: "center" }}>
                       <a
-                        href="https://dev.to/sanajitjana"
+                        href="https://dev.to/paramsohi"
                         target="newtab"
                         className="btn btn-warning"
                         style={{
